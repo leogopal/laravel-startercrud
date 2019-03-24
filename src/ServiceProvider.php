@@ -24,7 +24,7 @@ class ServiceProvider extends BaseServiceProvider
     {
 
         $this->commands('Leogopal\LaravelStartercrud\Console\Commands\LGCrud');
-        $this->commands('Leogopal\LaravelStartercrud\Console\Commands\L5GStub');
+        $this->commands('Leogopal\LaravelStartercrud\Console\Commands\LGStub');
     }
 
 }
