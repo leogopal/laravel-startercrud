@@ -1,0 +1,39 @@
+{
+    "name": "leogopal/laravel-startercrud",
+    "description": "A CRUD Artisan helper for the Laravel Starterkit",
+    "keywords": [
+        "laravel",
+        "leogopal",
+        "laravel-startercrud"
+    ],
+    "homepage": "https://github.com/leogopal/laravel-startercrud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "leogopal",
+            "email": "leo@leogopal.com",
+            "homepage": "https://leogopal.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php" : ">=5.5.0",
+        "illuminate/support": "~5.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit" : "4.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Leogopal\\LaravelStartercrud\\": "src"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
