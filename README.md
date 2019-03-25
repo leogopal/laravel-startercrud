@@ -1,11 +1,4 @@
-# laravel-startercrud
-
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-scrutinizer]][link-scrutinizer]
-[![Quality Score][ico-code-quality]][link-code-quality]
-[![Total Downloads][ico-downloads]][link-downloads]
+# Laravel Starterkit Artisan CRUD
 
 This is an Artisan based package for the [Laravel Starterkit](https://github.com/leogopal/laravel-starterkit)
 
@@ -302,6 +295,3 @@ HTML code for the menu item for your Laravel 5 starterkit sidebar.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
-
-[link-packagist]: https://packagist.org/packages/leogopal/laravel-startercrud
-[link-travis]: 
