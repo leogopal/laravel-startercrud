@@ -1,5 +1,10 @@
 # Laravel Starterkit Artisan CRUD
 
+[![Latest Stable Version](https://poser.pugx.org/leogopal/laravel-startercrud/version)](https://packagist.org/packages/leogopal/laravel-startercrud)
+[![Total Downloads](https://poser.pugx.org/leogopal/laravel-startercrud/downloads)](https://packagist.org/packages/leogopal/laravel-startercrud)
+[![License](https://poser.pugx.org/leogopal/laravel-startercrud/license)](https://packagist.org/packages/leogopal/laravel-startercrud)
+
+
 This is an Artisan based package for the [Laravel Starterkit](https://github.com/leogopal/laravel-starterkit)
 
 ## Install
